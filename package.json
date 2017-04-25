@@ -1,0 +1,23 @@
+{
+  "name": "clitictac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node game.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microthought/clitictac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/microthought/clitictac/issues"
+  },
+  "homepage": "https://github.com/microthought/clitictac#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
